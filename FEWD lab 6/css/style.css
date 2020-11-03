@@ -1,0 +1,114 @@
+.btn-primary{
+    background: #f90065;
+    border-radius:0px;
+}
+  
+.navbar-default {
+    background: #1a166e;
+    margin-bottom:-5px;
+    border-radius:0px;
+    border:0px;
+} 
+
+.jumbotron {
+    background: #12114f;
+    color: white;
+    border-radius:0px;
+    border:0px;
+}
+
+.panel{
+    border-radius:0px;
+    border:0px;
+}
+
+.msg{
+    background: #f90065;
+    color: white;
+    text-align: center;
+}
+
+.badge{
+    background: #12114f;
+}
+
+.box1{
+    background: #12114f;
+    coLor: white;
+    text-align: center;
+}
+
+.panel-heading{
+    background: grey;
+    border-radius:0px;
+    border:0px; 
+}
+
+.btn-side{
+    width:245px;
+    height:40px;
+}
+
+.list-group-item{
+    background: #12114f;
+    border:0px;
+}
+
+.panel-footer{
+    background: #3424a8;
+}
+
+.logo{
+    width:140px;
+    margin-top:-12px;
+}
+
+.form-control{
+    background: #3424a8;
+    border-radius:0px;
+    border-left:0px;
+    border-right:0px;
+}
+
+.greenBtn{
+    background: #10d48e;
+    margin-left:10px;
+    width:100px;
+    color: white;
+    border-color: #10d48e;
+}
+
+
+.btn-vote{
+    width:200px;
+    height:40px;
+    box-sizing: border-box;
+}
+
+.progress{
+    border-radius:0px;
+}
+
+.progress-bar-success{
+    background: #10d48e;
+}
+
+.progress-bar-danger{
+    background: #f8005e;
+}
+
+.alert-info{
+    background: #908fa6;
+    border-radius:0px;
+    border:0px;
+    color: white ;
+    margin-top:10px;
+}
+
+footer{
+    background: #121150;
+    margin:0;
+    padding:5px;
+    color: white;
+  
+}
